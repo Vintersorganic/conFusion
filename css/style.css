@@ -37,3 +37,16 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+.form-group {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
